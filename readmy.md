@@ -20,10 +20,3 @@
 [Перейти к боту в Telegram](https://t.me/hqdigtechbot)
 
 ---
-
-## Как запустить проект
-
-1. Убедитесь, что у вас установлен Python 3.9 или выше.
-2. Установите зависимости:
-   ```bash
-   pip install -r requirements.txt
