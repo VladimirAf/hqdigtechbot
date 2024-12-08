@@ -4,7 +4,7 @@ import logging
 logging.basicConfig(level=logging.INFO)
 
 # Токен API для бота
-API_TOKEN = '7644238616:AAFGiQRZmzJ8cPInvy-0Xf84vGPWEMtuZUk'
+API_TOKEN = ''
 
 # Данные для квиза
 quiz_data = [
